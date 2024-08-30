@@ -1,4 +1,4 @@
-// Assignment chapter no 3 to  chapter no 9
+// Assignment chapter no 3 to  chapter no 6
 // Chapter no 3
 
 // Q1
@@ -20,7 +20,7 @@
 
 // document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on XYZ Clothing store");
 
-chapter 4
+// chapter 4
 // //Declare 3 variables in one statement
 // var a, b, c;
 
@@ -39,3 +39,57 @@ chapter 4
 // document.write("<h6>For example: $name, _name, or name<h6>");
 // document.write("<h6>Variable names are case sensitive<h6>");
 // document.write("<h6>Variable names should   not be JavaScript keywords<h6>");
+
+
+// chapter 5
+
+// var num1 = 20;
+// var num2 = 10;
+// document.write("The sum of 20 and 10 is: " + (num1 + num2));
+
+
+// var num1 = 20;
+// var num2 = 10;
+// document.write("The Subtraction of 20 and 10 is: " + (num1 - num2));
+
+
+
+// var num1 = 20;
+// var num2 = 10;
+// document.write("The multipication of 20 and 10 is: " + (num1 * num2));
+
+
+// var num1 = 20;
+// var num2 = 10;
+// document.write("The division of 20 and 10 is: " + (num1 / num2));
+
+
+
+// var num1 = 20;
+// var num2 = 10;
+// document.write("The modulus is: " + (num1 % num2));
+
+
+// var num = 5;
+// document.write("Value after variable declaration is: " + num + "<br>");
+
+// num = 5;
+// document.write("Initial value: " + num + "<br>");
+
+// num++;
+
+// document.write("Value after increment is: " + num + "<br>");
+
+// num += 7;
+// document.write("Value after addition is: " + num + "<br>");
+
+// num--;
+// document.write("Value after decrement is: " + num + "<br>");
+
+// document.write("The remainder is: " + (num % 3) + "<br>");
+
+
+// var ticket = 600;
+// var total = ticket * 5;
+
+// document.write("Total cost to buy 5 tickets to a movie is " + total + " PKR");
