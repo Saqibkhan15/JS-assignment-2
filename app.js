@@ -12,7 +12,7 @@
 // var birthYear = 1990;
 // document.write("My birth year is " + birthYear + " \nDeclare variable and assign birth year ");
 
-//Q4
+// Q4
 
 // var visitorName = "John Doe";
 // var productTitle = "T-shirt";
@@ -21,13 +21,13 @@
 // document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on XYZ Clothing store");
 
 // chapter 4
-// //Declare 3 variables in one statement
+//Declare 3 variables in one statement
 // var a, b, c;
 
-//Legal variable names
+// Legal variable names
 // var myVariable, _anotherVariable, $thirdVariable, name123, camelCaseVariable;
 
-// //Illegal variable names
+//Illegal variable names
 // var 123variable, my-variable, my variable, my@variable, class;
 
 
@@ -41,7 +41,7 @@
 // document.write("<h6>Variable names should   not be JavaScript keywords<h6>");
 
 
-// chapter 5
+// // chapter 5
 
 // var num1 = 20;
 // var num2 = 10;
@@ -93,3 +93,36 @@
 // var total = ticket * 5;
 
 // document.write("Total cost to buy 5 tickets to a movie is " + total + " PKR");
+
+
+
+// var tab = 2;
+// var num1 = 1;
+// var num2 = 2;
+// var num3 = 3;
+// var num4 = 4;
+// var num5 = 5;
+// var num6 = 6;
+// var num7 = 7;
+// var num8 = 8;
+// var num9 = 9;
+// var num10 = 10;
+// document.write("Table of 2 <br/>");
+// document.write("2*1="+ (tab*num1) + "<br/>")
+// document.write("2*1="+ (tab*num2) + "<br/>")
+// document.write("2*1="+ (tab*num3) + "<br/>")
+// document.write("2*1="+ (tab*num4) + "<br/>")
+// document.write("2*1="+ (tab*num5) + "<br/>")
+// document.write("2*1="+ (tab*num6) + "<br/>")
+// document.write("2*1="+ (tab*num7) + "<br/>")
+// document.write("2*1="+ (tab*num8) + "<br/>")
+// document.write("2*1="+ (tab*num9) + "<br/>")
+// document.write("2*1="+ (tab*num10) + "<br/>")
+
+
+
+var celsius = 32;
+var fahrenheit = 0;
+var formula = (fahrenheit-celsius)*5/9
+
+console.log(formula)
