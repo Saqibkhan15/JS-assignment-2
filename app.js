@@ -121,8 +121,80 @@
 
 
 
-var celsius = 32;
-var fahrenheit = 0;
-var formula = (fahrenheit-celsius)*5/9
+// var celsius = 30;
+// var fahrenheit = (celsius * 9/5) + 32;
+// document.write(celsius + "°C is " + fahrenheit + "°F");
+// var fahrenheit = 86;
+// var celsius = (fahrenheit - 32) * 5/9;
+// document.write(fahrenheit + "°F is " + celsius + "°C")
 
-console.log(formula)
+
+// var priceItem1 = 650;  
+// var priceItem2 = 100;  
+// var quantityItem1 = 3;  
+// var quantityItem2 = 7;  
+// var shippingCharges = 100;  
+// var totalCost = (priceItem1 * quantityItem1) + (priceItem2 * quantityItem2) + shippingCharges;
+// document.write("Price of item 1: " + priceItem1 + "<br>");
+// document.write("Ordered quantity of item 1: " + quantityItem1 + "<br>");
+// document.write("Price of item 2: " + priceItem2 + "<br>");
+// document.write("Ordered quantity of item 2: " + quantityItem2 + "<br>");
+// document.write("Shipping charges: " + shippingCharges + "<br>");
+// document.write("Total cost: " + totalCost );
+
+// var totalMarks = 980;
+
+// var marksObtained = 804;
+
+// var percentage = (marksObtained / totalMarks) * 100;
+
+// document.write("Total Marks: " + totalMarks + "<br>");
+// document.write("Marks Obtained: " + marksObtained + "<br>");
+// document.write("Percentage: " + percentage + "%");
+
+
+// var usdToPkr = 278.58;
+// var sarToPkr = 74.23;
+
+// var usd = 10;
+// var sar = 25;
+// var totalInPkr = (usd * usdToPkr) + (sar * sarToPkr);
+// document.write("Total PKR: " + totalInPkr);
+// var num = 10;
+// var result = (((num + 5) * 10) / 2);
+// document.write("Result: " + result);
+
+
+
+// var currentYear = 2024;
+
+// var birthYear = 1995;
+
+// var age = currentYear - birthYear;
+
+// document.write("Current Year: " + currentYear + "<br>");
+// document.write("Birth Year: " + birthYear + "<br>");
+// document.write("Age: " + age + " years old");
+
+// Circle ka radius ek variable mein store karein
+var radius = 5;
+
+// Circumference calculate karein aur output dikhaein
+var circumference = 2 * 3.142 * radius;
+document.write("Circumference hai: " + circumference + "<br>");
+
+// Area calculate karein aur output dikhaein
+var area = 3.142 * radius * radius;
+document.write("Area hai: " + area);
+
+
+// Store the circle's radius in a variable
+var radius = 5;
+
+// Calculate the circumference and display output
+var circumference = 2 * 3.142 * radius;
+document.write("The circumference is: " + circumference + "<br>");
+
+// Calculate the area and display output
+var area = 3.142 * radius * radius;
+document.write("The area is: " + area);
