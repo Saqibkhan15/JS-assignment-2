@@ -113,7 +113,7 @@
 // document.write("2*9=" + (tab * num9) + "<br/>");
 // document.write("2*10=" + (tab * num10) + "<br/>");
 
-Q8
+// Q8
 // var celsius = 30;
 // var fahrenheit = (celsius * 9/5) + 32;
 // document.write(celsius + "°C is " + fahrenheit + "°F");
@@ -121,7 +121,7 @@ Q8
 // var celsius = (fahrenheit - 32) * 5/9;
 // document.write(fahrenheit + "°F is " + celsius + "°C")
 
-Q9
+// Q9
 // var priceItem1 = 650;  
 // var priceItem2 = 100;  
 // var quantityItem1 = 3;  
@@ -134,7 +134,7 @@ Q9
 // document.write("Ordered quantity of item 2: " + quantityItem2 + "<br>");
 // document.write("Shipping charges: " + shippingCharges + "<br>");
 // document.write("Total cost: " + totalCost );
-q10
+// q10
 // var totalMarks = 980;
 
 // var marksObtained = 804;
@@ -144,7 +144,7 @@ q10
 // document.write("Total Marks: " + totalMarks + "<br>");
 // document.write("Marks Obtained: " + marksObtained + "<br>");
 // document.write("Percentage: " + percentage + "%");
-q11
+// q11
 
 // var usdToPkr = 278.58;
 // var sarToPkr = 74.23;
@@ -157,7 +157,7 @@ q11
 // var result = (((num + 5) * 10) / 2);
 // document.write("Result: " + result);
 
-q12
+// q12
 
 // var currentYear = 2024;
 
@@ -169,7 +169,7 @@ q12
 // document.write("Birth Year: " + birthYear + "<br>");
 // document.write("Age: " + age + " years old");
 
-q13
+// q13
 
 // Store the circle's radius in a variable
 // var radius = 5;
@@ -182,17 +182,40 @@ q13
 // var area = 3.142 * radius * radius;
 // document.write("The area is: " + area);
 
-q14
+// q14
 // var favouriteSnack = "chip";
 // var currentAge = 15;
 // var maximumAge = 65;
 // var amountSnack = 3;
 
-// document.write("Favourite Snack: " + favouriteSnack + "<br>");
-// document.write("Current Age: " + currentAge + "<br>");
-// document.write("Estimated Maximum Age: " + maximumAge + "<br>");
-// document.write("Amount of snack per day: " + amountSnack + "<br>");
+// document.write("Favourite Snack: " + favouriteSnack + "<br>")
+// document.write("Current Age: " + currentAge + "<br>")
+// document.write("Estimated Maximum Age: " + maximumAge + "<br>")
+// document.write("Amount of snack per day: " + amountSnack + "<br>")
 
 // var totalSnacksNeeded = (maximumAge - currentAge) * 1 * amountSnack;
 
 // document.write("You will need " + totalSnacksNeeded + " " + favouriteSnack + " to last you until the ripe old age of " + maximumAge);
+
+
+// Chapter 6
+// Q1
+// var num1 = 10;
+// document.write("The value of a is :" + num1 + "<br>" )
+// document.write("The value of ++a is :" + ++num1 + "<br>")
+// document.write("Now the value of a is :" + num1 +"<br>"  )
+// document.write("The value of ++a is :" + num1 + "<br>")
+// document.write("Now the value of a is :" + ++num1 + "<br>" )
+// document.write("The value of --a is :" + --num1 + "<br>")
+// document.write("Now the value of a is :" + num1 + "<br>" )
+// document.write("The value of --a is :" + num1 + "<br>" )
+// document.write("Now the value of a is :" + --num1 + "<br>" )
+//  Q3
+// var a = 2, b = 1;
+// var result = --a - --b + ++b + b--;
+// document.write("a: " + a + "<br>")      
+// document.write("b: " + b + "<br>")       
+// document.write("result: " + result)
+//  Q4
+// var name = prompt("Enter your name:");
+// alert("Assalam o Alaikum! " + name);
