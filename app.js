@@ -171,10 +171,8 @@
 
 // q13
 
-// Store the circle's radius in a variable
 // var radius = 5;
 
-// Calculate the circumference and display output
 // var circumference = 2 * 3.142 * radius;
 // document.write(" The circumference is:  "+" " + circumference + "<br>");
 
