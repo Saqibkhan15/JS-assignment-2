@@ -195,7 +195,6 @@
 
 // document.write("You will need " + totalSnacksNeeded + " " + favouriteSnack + " to last you until the ripe old age of " + maximumAge);
 
-
 // Chapter 6
 // Q1
 // var num1 = 10;
@@ -208,12 +207,12 @@
 // document.write("Now the value of a is :" + num1 + "<br>" )
 // document.write("The value of --a is :" + num1 + "<br>" )
 // document.write("Now the value of a is :" + --num1 + "<br>" )
-//  Q3
+//  Q2
 // var a = 2, b = 1;
 // var result = --a - --b + ++b + b--;
 // document.write("a: " + a + "<br>")      
 // document.write("b: " + b + "<br>")       
 // document.write("result: " + result)
-//  Q4
+//  Q3
 // var name = prompt("Enter your name:");
 // alert("Assalam o Alaikum! " + name);
